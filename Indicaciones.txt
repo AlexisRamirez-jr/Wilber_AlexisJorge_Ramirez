@@ -1,0 +1,16 @@
+
+- Tener instalado XAMPP
+- descomprimir y copiar la carpeta del proyecto en la direccion: C:\xampp\htdocs\
+- Ejecutar XAMPP y habilitar el modulo de Apache y MySql. 
+-- importar la base de datos al servidor mysql, el script se encuentra con el nombre pruebamisalud.sql
+-- si se importa la base de datos sin problemas solo faltaria ejecutar el proyecto.
+- ya se procede a ejecutar el proyecto copiando la siguiente url en el navegador chrome u otro.
+- http://localhost/Wilber_Alexis_Jorge_Ramirez/login
+-  usuarios ya registrados			contraseña
+	alexis@gmail.com			alexis
+	alexis2021@gmail.com			alexis
+	admin@gmail.com				admin
+
+-- pueden registrar un nuevo usuario si asi lo desean.
+
+
